@@ -1,0 +1,19 @@
+{
+  "name": "the-nine-homes",
+  "version": "1.0.0",
+  "description": "Premium 2 BHK Independent Houses in Punadipadu, near Kankipadu, Vijayawada",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": [
+    "real-estate",
+    "vijayawada",
+    "punadipadu",
+    "independent-house",
+    "the-nine-homes"
+  ],
+  "author": "The Nine Homes",
+  "license": "ISC"
+}
